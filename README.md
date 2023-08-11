@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **legacy systems maintenance.**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Spring framework and React**
 
 - 📄 [Check my CV](https://github.com/guilhermemarx14/guilhermemarx14/blob/main/CV_GUILHERME_MARX.pdf)
 
