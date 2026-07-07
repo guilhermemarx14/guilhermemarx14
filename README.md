@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring framework and React**
 
-- 📄 [Check my CV](https://github.com/guilhermemarx14/guilhermemarx14/blob/main/Guilherme Tavares Resume.pdf)
+- 📄 [Check my CV](https://github.com/guilhermemarx14/guilhermemarx14/blob/main/Guilherme_Tavares_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
